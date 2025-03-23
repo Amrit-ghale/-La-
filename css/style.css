@@ -640,6 +640,7 @@ a:focus {
   max-width: 445px;
   position: relative;
   z-index: 2;
+  transform: rotate(46deg);
 }
 
 .about_section .detail-box p {
